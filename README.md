@@ -2,6 +2,8 @@
 
 # Hola, soy You Robladillo 👋
 
+<sub>aka</sub> <b>Yuyu Dev</b>
+
 **Desarrollador Full Stack** · React · TypeScript · Node.js · Laravel · Odoo
 <br/>
 📍 Perú
