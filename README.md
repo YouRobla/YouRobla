@@ -4,7 +4,7 @@
 
 **Desarrollador Full Stack** · React · TypeScript · Node.js · Laravel · Odoo
 <br/>
-📍 Huancayo, Perú
+📍 Perú
 
 <a href="https://www.linkedin.com/in/you-brandols-robladillo-tica-09880231a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -12,11 +12,12 @@
 
 ---
 
-Construyo sistemas en producción que reemplazan procesos hechos en papel y Excel: módulos ERP en Odoo, aplicaciones React/TypeScript con APIs en Node.js y Laravel, y despliegues automatizados con Docker y CI/CD.
+Desarrollador Full Stack con experiencia construyendo sistemas en producción para clientes reales. Trabajo directo con ellos: converso para entender cómo opera su negocio, convierto lo que necesitan en requerimientos claros, les presento los avances y doy seguimiento hasta que el sistema reemplaza al papel y al Excel en su día a día.
 
-- 💼 **Desarrollador Full Stack** en AAC Consulting ERP (desde 2025): Odoo 17/18 para distribución, agroindustria y hotelería.
+- 💼 **Desarrollador Full Stack** en AAC Consulting ERP (desde 2025): Odoo 17/18 para clientes de distribución, agroindustria y hotelería.
+- 🤝 **Más allá del código:** comunicación con clientes y usuarios no técnicos, levantamiento de requerimientos, presentación de avances y seguimiento. En prácticas co-lideré un equipo frontend de ~15 personas.
+- 📐 **Cómo trabajo:** primero entiendo el negocio, luego documento las decisiones técnicas y dejo el despliegue automatizado.
 - 🎓 Estudio **Ingeniería de Software** en la UTP. Soy técnico titulado en Ingeniería de Software con especialización en IA (SENATI).
-- 🧭 Me gusta entender cómo opera el negocio antes de programar, documentar las decisiones técnicas y dejar el despliegue automatizado.
 
 ### 🛠️ Stack
 
